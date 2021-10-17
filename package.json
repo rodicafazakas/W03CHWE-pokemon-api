@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.16.3"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node index"
   },
