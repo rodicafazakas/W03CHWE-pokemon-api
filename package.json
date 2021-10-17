@@ -7,7 +7,7 @@
     "json-server": "^0.16.3"
   },
   "scripts": {
-    "start": "json-server pokemon.json"
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
